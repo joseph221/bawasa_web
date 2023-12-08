@@ -25,21 +25,21 @@
                                     <h5>Ndugu. Neli C. Msuya</h5>
                                     <hr>
                                     <h6>Ag. Managing Director</h6>
-                                    <a class="btn btn-block btn-sm btn-custom" href="https://www.mwauwasa.go.tz/biographies/bio1">Biography</a>
+                                    <a class="btn btn-block btn-sm btn-custom" href="">Biography</a>
                                 </div> -->
                             </div>
                         </div>
                         <div class="col-md-8">
                             <div id="home-carousel" class="carousel slide carousel-fade bs-0" data-ride="carousel" data-interval="5000">
                                 <div class="carousel-inner">
-                                    <div class="carousel-item">
-                                        <img class="d-block w-100" alt="hfdhgkdflgkdfhgkfdjhgbvfdkjgfdgknfdg................." src="./resourse/slide2.jpg">
+                                    <div class="carousel-item active">
+                                        <img class="d-block w-100" alt="maisaka borehole" src="./resourse/kisima_maisaka.jpg">
                                         <span class="carousel-caption d-none d-md-block">
-                                            hfdhgkdflgkdfhgkfdjhgbvfdkjgfdgknfdg.................
+                                            maisaka borehole
                                         </span>
                                     </div>
 
-                                    <div class="carousel-item active">
+                                    <div class="carousel-item">
                                         <img class="d-block w-100" alt="mabadiliko ya bei" src="./resourse/lide1.png">
                                         <span class="carousel-caption d-none d-md-block">
                                             mabadiliko ya bei
@@ -116,7 +116,7 @@
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                                         </p>
                                         <div class="text-center mt-auto mb-2">
-                                            <a class="btn btn-custom btn-sm" href="https://www.mwauwasa.go.tz/our_services/clean-water-supply">Read More</a>
+                                            <a class="btn btn-custom btn-sm" href="our_services/clean-water-supply">Read More</a>
                                         </div>
                                     </div>
             
@@ -130,25 +130,25 @@
                                 <div class="howdoi pl-3 pr-2 mt-3">
         
                                     <div class="list-group">
-                                        <a href="https://www.mwauwasa.go.tz/online-services/new-water-connection">
+                                        <a href="online-services/new-water-connection">
                                             <button type="button" class=" btn btn-custom list-group-item list-group-item-action"><i class="fas fa-arrow-alt-circle-right"></i> New Connection Service
                                                 <br>
                                                 
                                             </button>
                                         </a><br>
-                                        <a href="https://www.mwauwasa.go.tz/online-services/report-issue">
+                                        <a href="online-services/report-issue">
                                             <button type="button" class="btn btn-custom list-group-item list-group-item-action">
                                                 <i class="fas fa-arrow-alt-circle-right"></i> Report Issue
                                                 <br>
                                                 
                                             </button>
                                         </a><br>
-                                        <a href="https://www.mwauwasa.go.tz/online-services/view-bill">
+                                        <a href="online-services/view-bill">
                                             <button type="button" class="btn btn-custom list-group-item list-group-item-action">
                                                 <i class="fas fa-arrow-alt-circle-right"></i> View Bill
                                             </button>
                                         </a><br>
-                                        <a href="https://www.mwauwasa.go.tz/online-services/remove-sewage-water">
+                                        <a href="online-services/remove-sewage-water">
                                             <button type="button" class="btn btn-custom list-group-item list-group-item-action">
                                                 <i class="fas fa-arrow-alt-circle-right"></i> Remove Sewage Water
                                             </button>
@@ -241,7 +241,7 @@
                                                     </div>
                                                 </div>
                                                                                     <div class="media border-bottom">
-                                                    <img class="mr-2 img-fluid" alt="[150x90]" src="./Home _ MWAUWASA_files/1697548019-393302559_648092697460230_8595181273152325193_n.jpg">
+                                                    <img class="mr-2 img-fluid" alt="[150x90]" src="">
                                                     <div class="media-body">
                                                         <div class="d-flex">
                                                             <div class="news-date">

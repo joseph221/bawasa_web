@@ -162,7 +162,7 @@
 <!-- script -->
 <script>
 let currentYear = new Date().getFullYear();
-let startYear = 2019;
+let startYear = 2023;
 if (currentYear != startYear) {
     document.getElementById('copyrightDate').innerHTML = (startYear + "-" + new Date().getFullYear());
 } else {
@@ -179,6 +179,8 @@ if (currentYear != startYear) {
 <script src="./resourse/customScrollbar.min.js"></script>
 <script src="./resourse/slick.min.js"></script>
 <script src="./resourse/custom.min.js"></script>
+<script src="./resourse/recaptcha__en.js"></script>
+
 
 <script>
 $('a.dropdown-item.dropdown-toggle').click(function() {

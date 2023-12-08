@@ -18,32 +18,32 @@
                 <ul class=" top-bar-menu-listing">
                                     <li><a href="#language/sw"><i class="fa fa-sign-language"></i>Swahili</a></li>
                                     <li class="list-inline-item sm-hide">
-                        <a href="#">
+                        <a href="../../pages/request_sevice/request_service.php">
                             <i class="fa fa-money-bill"></i> Request Service
                         </a>
                     </li>
                                         <li class="list-inline-item">
-                            <a href="#contactus">
+                            <a href="../../pages/contacts/contact_us.php">
                                 <i class="fa fa-address-book"></i> Contact Us
                             </a>
                         </li>
                                     <li class="list-inline-item sm-hide">
-                        <a href="#faqs">
+                        <a href="../../pages/fasq/faqs.php">
                             <i class="fa fa-question-circle"></i>FAQs
                         </a>
                     </li>
                     <li class="list-inline-item sm-hide">
-                        <a href="#tenders">
+                        <a href="../../pages/tenders/tenders.php">
                             <i class="fa fa-universal-access"></i>Tenders
                         </a>
                     </li>
                     <li class="list-inline-item sm-hide">
-                        <a href="#vacancies">
+                        <a href="../../pages/vacancies/vacancies.php">
                             <i class="fa-people-carry"></i>Vacancies
                         </a>
                     </li>
                     <li class="list-inline-item sm-hide">
-                        <a href="https://mail.mwauwasa.go.tz/">
+                        <a href="https://mail.bawasa.go.tz/">
                             <i class="fa fa-envelope"></i>&nbsp; Staff Mail
                         </a>
                     </li>
@@ -83,7 +83,7 @@
                     <div class="collapse navbar-collapse" id="smallScreenNavbar">
                         <ul class="navbar-nav mr-auto active-links">
                             <li class="nav-item">
-                                <a class="nav-link" href="../../index.php"><i class="fas fa-home"></i> Home </a>
+                                <a class="nav-link" href="../../index.php"><i class="fa fa-home"></i> Home </a>
                             </li>
                             <!-- ####################################################################################### -->
                         <li class="nav-item dropdown">
@@ -107,18 +107,27 @@
                             <li class="nav-item dropdown">
                                 <a href="/#" class="nav-link dropdown-toggle" data-toggle="dropdown">Services<b class="caret"></b></a>
                             <ul class="dropdown-menu drop">
-                                <li><a class="dropdown-item" href="pages/services/clean_water_service.html">Clean Water Services</a>
+                                <li><a class="dropdown-item" href="../../pages/services/clean_water_service.php">Clean Water Services</a>
                                 </li>
-                                <li><a class="dropdown-item" href="pages/services/sanitation_service.html">Sanitation Services</a>
+                                <li><a class="dropdown-item" href="../../pages/services/sanitation_service.php">Sanitation Services</a>
                                 </li>
                             </ul></li>
-                            <li class="nav-item dropdown"><a href="/#" class="nav-link dropdown-toggle" data-toggle="dropdown">Projects<b class="caret"></b></a><ul class="dropdown-menu drop"><li><a class="dropdown-item" href="/projects/8">Planned</a></li><li><a class="dropdown-item" href="/projects/7">excuted</a></li><li><a class="dropdown-item" href="/projects/6">current</a>
+                            <li class="nav-item dropdown"><a href="/#" class="nav-link dropdown-toggle" data-toggle="dropdown">Projects<b class="caret"></b>
+                            </a><ul class="dropdown-menu drop"><li>
+                                <a class="dropdown-item" href="../../pages/projects/planned.php">Planned</a></li>
+                                <li><a class="dropdown-item" href="../../pages/projects/excuted.php">excuted</a></li>
+                                <li><a class="dropdown-item" href="../../pages/projects/current.php">current</a>
                             </li>
                         </ul></li>
-                        <li class="nav-item dropdown"><a href="/#" class="nav-link dropdown-toggle" data-toggle="dropdown">Publications<b class="caret"></b></a><ul class="dropdown-menu drop"><li><a class="dropdown-item" href="/publications/4">Guidelines</a></li><li><a class="dropdown-item" href="/publications/1">Policies</a>
-                        </li><li><a class="dropdown-item" href="/publications/2">Acts</a></li><li><a class="dropdown-item" href="/publications/6">Regulations</a>
-                        </li><li><a class="dropdown-item" href="/publications/5">Newsletter</a></li><li><a class="dropdown-item" href="/publications/16">Flyers</a>
-                        </li></ul></li><li class="nav-item dropdown"><a href="/#" class="nav-link dropdown-toggle" data-toggle="dropdown">Media Centre<b class="caret"></b></a>
+                        <li class="nav-item dropdown"><a href="/#" class="nav-link dropdown-toggle" data-toggle="dropdown">Publications<b class="caret"></b></a>
+                        <ul class="dropdown-menu drop">
+                            <li><a class="dropdown-item" href="../../pages/publication/guidelines.php">Guidelines</a></li>
+                            <li><a class="dropdown-item" href="../../pages/publication/polices.php">Policies</a></li>
+                            <li><a class="dropdown-item" href="../../pages/publication/acts.php">Acts</a></li>
+                            <li><a class="dropdown-item" href="../../pages/publication/regulations.php">Regulations</a>
+                            </li><li><a class="dropdown-item" href="../../pages/publication/newsletters.php">Newsletter</a></li>
+                            <li><a class="dropdown-item" href="../../pages/publication/flyers.php">Flyers</a></li>
+                        </ul></li><li class="nav-item dropdown"><a href="/#" class="nav-link dropdown-toggle" data-toggle="dropdown">Media Centre<b class="caret"></b></a>
                             <ul class="dropdown-menu drop"><li><a class="dropdown-item" href="/pressreleases">Press Release</a>
                             </li><li><a class="dropdown-item" href="/galleries/listing/videos">Video Gallery</a>
                             </li><li><a class="dropdown-item" href="/galleries/listing/photos/0">Photo Gallery</a>
